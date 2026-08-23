@@ -11,6 +11,6 @@ def about_me():
 #### Languages, Technologies and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,python,cpp,blender,react,sqlite,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=ros,python,cpp,cs,unity,blender,sqlite,docker,git,linux" />
   </a>
 </p>
