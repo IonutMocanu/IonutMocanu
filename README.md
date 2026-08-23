@@ -1,10 +1,11 @@
+```python
 def about_me():
-    name = "Mocanu Andrei Ionuț"
-    role = "XR Full-Stack Game Dev & Technical Artist @ ICI București"
-    location = "Bucharest, Romania"
-    bachelors = "UNSTPB, Industrial Engineering and Robotics - Industrial Informatics (2022-2026)"
-    masters = "University of Bucharest, Mathematics and Computer Science - NLP"
-    focus = ["3D Modeling", "Technical Art", "Game Design", "Software Development"]
+    name = "Mocanu Andrei Ionuț";
+    role = "XR Developer & Technical Artist @ ICI București";
+    location = "Bucharest, Romania";
+    bachelors = "UNSTPB, Industrial Engineering and Robotics (2022-2026)";
+    masters = "University of Bucharest, NLP";
+    focus = ["Software Dev", "Technical Art", "3D Modeling", "Game Design"];
 ```
 
 #### Languages, Technologies and Tools:
